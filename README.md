@@ -51,4 +51,5 @@ This projects consists of three microservices:
 - [Docker](/screenshots/docker)
 - [Kubernetes](/screenshots/kube)
 - [MongoDB](/screenshots/mongodb)
+- [S3](/screenshots/s3)
 - [Travis](/screenshots/travis)
